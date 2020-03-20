@@ -10,12 +10,12 @@
     ],
     "autoload": {
         "psr-4": {
-            "Layliaiyong\\PipeBuilder\\": "src/"
+            "LayLiaiyong\\PipeBuilder\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Layliaiyong\\PipeBuilder\\Tests\\": "tests/"
+            "LayLiaiyong\\PipeBuilder\\Tests\\": "tests/"
         }
     },
     "require": {}
