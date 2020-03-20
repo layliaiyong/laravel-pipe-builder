@@ -1,0 +1,22 @@
+{
+    "name": "layliaiyong/laravel-pipe-builder",
+    "description": "laravel pipeline builder",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "liaiyong",
+            "email": "lay@liaiyong.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Layliaiyong\\PipeBuilder\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Layliaiyong\\PipeBuilder\\Tests\\": "tests/"
+        }
+    },
+    "require": {}
+}
